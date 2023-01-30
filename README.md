@@ -4,7 +4,7 @@ An API to upload your workouts and get custom reports on workouts over time, PBs
 
 Learning Objectives:
 
-C#
-Restful APIS
-Entity Framework Core
-MS SQL
+- C#
+- Restful APIS
+- Entity Framework Core
+- Microsofrt SQL Server(T-SQL)
