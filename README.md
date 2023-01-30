@@ -7,4 +7,4 @@ Learning Objectives:
 - C#
 - Restful APIS
 - Entity Framework Core
-- Microsofrt SQL Server(T-SQL)
+- Microsoft SQL Server(T-SQL)
